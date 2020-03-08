@@ -39,6 +39,7 @@ Synapse is configured using a simple, XML-based configuration language.
 The configuration language and the related functional components are designed with SOA best practices in mind. It is trivial to store configuration fragments in an external SOA registry and import them to the mediation engine on demand. 
 Synapse ships with a large collection of mediators that can be used to implement even the most complex enterprise integration scenarios. If necessary, the mediation engine can be extended by developing custom mediators using Java or your favorite scripting language.
 
+## Just test change
 
 
 
